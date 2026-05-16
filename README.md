@@ -1,4 +1,4 @@
-# 🎧 Tamil Spotify Data Analysis
+# Tamil Spotify Data Analysis
 ## Project Overview
 This project performs an end-to-end data analysis of Tamil songs from Spotify to understand how musical features such as danceability, energy, duration, and release year influence song popularity.
 
